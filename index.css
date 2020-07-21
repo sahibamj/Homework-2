@@ -6,6 +6,50 @@ background-image: url("qbkls.png")
 background-color: #606060;
 }
 
+@media screen and (min-width: 640px) {
+    .menu {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .menu {
+        width: 100%;
+    }
+}
+
+
+@media screen and (min-width: 640px) {
+    .indexbox {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .indexbox {
+        {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 640px) {
+    footer {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    footer {
+        width: 100%;
+    }
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
+    max-width: 640px;
+  }
+
 .navbar-brand {
 color:white;
 font-size: 45x;
