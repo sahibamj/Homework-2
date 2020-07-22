@@ -6,14 +6,6 @@ background-image: url("qbkls.png")
 background-color: #606060;
 }
 
-
-
-.responsive {
-    width: 100%;
-    height: auto;
-    max-width: 640px;
-  }
-
 .navbar-brand {
 color:white;
 font-size: 45x;
@@ -51,8 +43,8 @@ text-align: left;
 }
 
 #myimg {
-width: 210px;
-height: 240px;
+width: 100%;
+
 }
 
 footer {
